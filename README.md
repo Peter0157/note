@@ -1,0 +1,2 @@
+# note
+c++ notes
